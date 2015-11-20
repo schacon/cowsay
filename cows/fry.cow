@@ -1,0 +1,35 @@
+$the_cow = <<EOC;
+   $thoughts
+    $thoughts
+             u
+      .  x!X
+    ."X M~~>
+   d~~XX~~~k    .u.xZ `\ \ "%
+  d~~~M!~~~?..+"~~~~~?:  "    h
+ '~~~~~~~~~~~~~~~~~~~~~?      `
+ 4~~~~~~~~~~~~~~~~~~~~~~>     '
+ ':~~~~~~~~~~(X+"" X~~~~>    xHL
+  %~~~~~(X="      'X"!~~% :RMMMRMRs
+   ^"*f`          ' (~~~~~MMMMMMMMMMMx
+     f     /`   %   !~~~~~MMMMMMMMMMMMMc
+     F    ?      '  !~~~~~!MMMMMMMMMMMMMM.
+    ' .  :": "   :  !X""(~~?MMMMMMMMMMMMMMh
+    'x  .~  ^-+="   ? "f4!*  #MMMMMMMMMMMMMM.
+     /"               .."     `MMMMMMMMMMMMMM
+     h ..             '         #MMMMMMMMMMMM
+     f                '          (MMMMMMMMMMM
+   :         .:=""     >       dMMMMMMMMMMMMM
+   "+mm+=~("           RR     HMMMMMMMMMMMMM"
+           %          (MMNmHHMMMMMMMMMMMMMMF
+          uR5         dMMMMMMMMMMMMMMMMMMMF
+        dMRMM>       dMMMMMMMMMMMMMMMMMMMF
+       RMHMMMF=x..=" RMRMMMMMMMMMMMMMMMMF
+      MMMMMMM       'MMMMMMMMMMMMMMMMMMF
+     dMMRMMMK       'MMMMMMMMMMMMMMMMM"
+     RMMRMMME       3MMMMMMMMMMMMMMMM
+    XMMMMMMM>       9MMMMMMMMMMMMMMM~
+   'MMMMMMMM>       9MMMMMMMMMMMMMMF
+   tMMMMMMMM        9MMMMMMMMMMMMMM
+   MMMMMMMMM        9MMMMMMMMMMMMMM
+  'MMMMRMMMM        9MMMMMMMMMMMMM9
+EOC
