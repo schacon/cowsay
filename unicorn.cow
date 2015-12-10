@@ -1,0 +1,20 @@
+#
+# Gaff's Origami Unicorn
+# Copyright 2015 Jacob Rose <jacob@etsy.com>
+# Released under the same terms as cowsay
+#
+$the_cow = <<"EOC";
+           $thoughts
+             $thoughts
+
+                     .
+                     :
+                     |
+                    /|>
+                   | |
+        _<<==-----/ //
+          \\`-____/\\/\\
+           |/Y   `-\\-\\
+           | '      \\ `
+
+EOC
