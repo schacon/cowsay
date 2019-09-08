@@ -1,0 +1,17 @@
+##
+## Tapir 
+##
+$the_cow = <<EOC;
+   $thoughts
+    $thoughts
+           _,.,.__,--.__,-----.
+        ,""   '))              `.
+      ,'   e                    ))
+     (  .='__,                  ,
+      `~`     `-\  /._____,/   /
+               | | )    (  (   ;
+               | | |    / / / / 
+     vvVVvvVvVVVvvVVVvvVVvVvvvVvVvVvv 
+
+EOC
+
